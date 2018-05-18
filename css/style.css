@@ -137,6 +137,19 @@ header_contacts iframe {
     color: white;
     padding: 30px 0 0 0;
 }
+.header_links_contacts a:hover{
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+    color: #333333;
+}
+
+.header_links_contacts a:active {
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+    color: #333333;
+    filter:drop-shadow(7px 0px 0px white);
+    
+}
 
 /*---------------MENU---------------*/
 
